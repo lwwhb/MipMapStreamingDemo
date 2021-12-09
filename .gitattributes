@@ -1,0 +1,6 @@
+Assets/Viking_Village/Textures/Buildings/build_building_01_n.tif filter=lfs diff=lfs merge=lfs -text
+Assets/Viking_Village/Textures/Buildings/build_building_02_n.tif filter=lfs diff=lfs merge=lfs -text
+Assets/Viking_Village/Textures/Skies/Daytime/SunsetSkyboxHDR.hdr filter=lfs diff=lfs merge=lfs -text
+Assets/Viking_Village/Textures/wood_tiled_01_n.tif filter=lfs diff=lfs merge=lfs -text
+Assets/Viking_Village/Textures/Buildings/build_building_01_a.tif filter=lfs diff=lfs merge=lfs -text
+Assets/Viking_Village/Textures/Buildings/build_building_02_a.tif filter=lfs diff=lfs merge=lfs -text
