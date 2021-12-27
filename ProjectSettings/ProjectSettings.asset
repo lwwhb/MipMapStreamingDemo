@@ -153,7 +153,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.unity3d.vikingVillageURP
+    Android: com.DefaultCompany.MipMapStreamingDemo
     Standalone: com.DefaultCompany.MipMapStreamingDemo
     iPhone: com.DefaultCompany.MipMapStreamingDemo
     tvOS: com.Company.ProductName
